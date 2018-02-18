@@ -26,7 +26,6 @@ AVL tree (https://en.wikipedia.org/wiki/AVL_tree) in my template implementation.
 
 ## Example of use
 ```
-#include <string>
 #include "avl-tree.cpp"
 
 int main() {
