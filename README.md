@@ -21,7 +21,7 @@ AVL tree (https://en.wikipedia.org/wiki/AVL_tree) in my template implementation.
 14. Constant method `Iterator<class ValueType> find()` which finds element in the container. It returns corresponding iterators to the element if found, `end()` otherwise
 15. Constant method `Iterator<class ValueType> lower_bound()`  which returns iterator to the smallest element of set, which is not less than argument. If this does not exist, returns `end()`
 
-### Asymptotics:
+### Asymptotic complexity:
 `insert()`, `erase()`, `find()`, `lower_bound()` - **O(log(n))**
 
 ## Example of use
